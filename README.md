@@ -9,5 +9,3 @@ This is IDM Traffic Simulator! It is a traffic simulation tool created for analy
 of the commonly used Intelligent Driver Model. The program enables the user to adjust the
 simulation parameters using the user interface. The preview of the simulator is presented below.
 ![](images/preview.png)
-## Installation
-IDM Traffic Simulator was created in Python and the Pygame library. The installation instructions will be provided soon.
